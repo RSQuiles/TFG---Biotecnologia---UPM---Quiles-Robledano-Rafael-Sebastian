@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Quiles
+    given-names: Rafael
+title: "TFG Biotecnología UPM: Quiles Robledano, Rafael Sebastián"
+version: 2.0.4
+identifiers:
+date-released: 2024-06-20
